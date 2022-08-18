@@ -17,3 +17,5 @@ function divide(x, y) {
 function operate(operator, x, y) {
     return operator(x, y);
 }
+
+console.log("hello world")
